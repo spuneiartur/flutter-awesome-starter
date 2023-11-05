@@ -59,6 +59,9 @@ dependencies:
   # Cached image
   cached_network_image: ^3.3.0
 
+  # Http requests
+  dio: ^5.3.3
+
   # Dependency injection
 dev_dependencies:
   flutter_test:
